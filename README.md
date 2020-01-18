@@ -12,3 +12,5 @@
 |Shamrock Innovation         |Kano |No 35 Lamido Rd, GRA Kano                                                                              |http://shamrockinnovations.com.ng    |Mobile and Web development and more preference for female interns.|
 |StartUp Kano                |Kano |Daurawa Quarters Road, Tarauni, Kano                                                                   |startupkano@gmail.com                |                                                                  |
 |Steamledge                  |Kano |No 21 Tsamiyar Boka, Hotoro, Kano State                                                                |enquiries@steamledge.com             |                                                                  |
+|CITAD                       |Kano |No 52 Social Insuarance road,kano state 
+        |http://www.citad.org
